@@ -5,7 +5,7 @@ Individual project. Financial management application writen in Django.
 
 #### Assumptions:
 - account creation (registraton and login),
-- creating groups,
+- creating groups and members of that groups,
 - creating expenses within a given group, sharing costs - balancing expenses, generating a financial report after archiving a group.
 
 
